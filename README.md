@@ -6,8 +6,8 @@ Welcome to my submission for Task 1 of the Maching Learning Internship at Prodig
 The dataset used for this task is <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data">Housepriceprediction</a>.This dataset contains records of houce prices.
 
 ## Tools and Libraries used
-Jupyter lab
-Numpy
-Pandas
-Matplotlib
-Seaborn 
+- Jupyter lab
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn 
